@@ -16,6 +16,8 @@ For many years now I have been developing apps for iOS and iPadOS together with 
 
 Developing software is much more than just typing lines in the computer. It's conception, architecture, consulting and then maybe some typing. I love the creativity which I can actively live out day in and day out.
 
+But may you ask, why are there just a few Swift reposistories? Because I like doing my open work in contexts' that are new to me and in which I'm confident that I do not break any licenses with my employeers.
+
 #### My communities
 > I contribute to one of the biggest Microsoft news portals drwindows.de. In the past I wrote for mobilegeeks.de, apfeltalk.de and many more
 
