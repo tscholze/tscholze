@@ -3,7 +3,7 @@
 
 #### tl;dr
 - 🔭 I’m currently working on iOS / iPadOS B2B-apps at ~anfema GmbH~ [Pixida GmbH (BU anfema)](https://www.pixida.com)
-- 🌱 I’m currently spending my spare time [developing a Raspberry Pi vehicle](https://github.com/tscholze/dotnet-iot-raspberrypi-trilobot) as a .NET, Blazor and MAUI demonstrator
+- 🌱 I’m currently spending my spare time [developing a RaspPi vehicle](https://github.com/tscholze/dotnet-iot-raspberrypi-trilobot) as a .NET, Blazor and MAUI demo
 - 👯 I’m looking to collaborate on fostering and building communities
 - 📫 How to reach me: [@tobonaut](https://twitter.com/tobonaut) (Twitter), [tobonaut@mastodon.social](https://bsky.app/profile/tobonaut.bsky.social) (BlueSky)
 - 📹 My content creations: [YouTube](https://youtube.com/@tscholze), [TikTok](https://www.tiktok.com/@the_stuttering_nerd), [Instagram](https://www.instagram.com/the_stuttering_nerd), [Podcast](https://tscholze.github.io/podcast-la-la-laber-doch/) always as "The Stuttering Nerd"
