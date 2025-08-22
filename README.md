@@ -2,17 +2,17 @@
 > Tobias Scholze, Senior Software Engineer for Enterprise-grade mobile applications, community enthusiast
 
 #### tl;dr
-- 🔭 I’m currently working on iOS / iPadOS B2B-apps at [anfema GmbH](https://anfe.ma/en)
-- 🌱 I’m currently learning [Kotlin Mobile Multiplatform](https://kotlinlang.org/docs/multiplatform.html) and [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
-- 👯 I’m looking to collaborate on building communities
-- 📫 How to reach me: [@tobonaut](https://twitter.com/tobonaut) (Twitter), [tobonaut@mastodon.social](https://mastodon.social/@tobonaut) (Mastodon)
+- 🔭 I’m currently working on iOS / iPadOS B2B-apps at ~anfema GmbH~ [Pixida GmbH (BU anfema)](https://www.pixida.com)
+- 🌱 I’m currently spending my spare time [developing a Raspberry Pi vehicle](https://github.com/tscholze/dotnet-iot-raspberrypi-trilobot) as a .NET, Blazor and MAUI demonstrator
+- 👯 I’m looking to collaborate on fostering and building communities
+- 📫 How to reach me: [@tobonaut](https://twitter.com/tobonaut) (Twitter), [tobonaut@mastodon.social](https://bsky.app/profile/tobonaut.bsky.social) (BlueSky)
 - 📹 My content creations: [YouTube](https://youtube.com/@tscholze), [TikTok](https://www.tiktok.com/@the_stuttering_nerd), [Instagram](https://www.instagram.com/the_stuttering_nerd), [Podcast](https://tscholze.github.io/podcast-la-la-laber-doch/) always as "The Stuttering Nerd"
 - ⚡ Fun fact: 🐼 are the awesome!
 
 #### My day work
 > Senior software engineer for enterprise-grade mobile applications
 
-For many years now I have been developing apps for iOS and iPadOS together with my colleagues at [anfema](https://anfe.ma) which help our international customers to digitalize their internal processes, to be free of errors and to enable their employees to be more productive but also to have more fun at work. 
+For many years now I have been developing apps for iOS and iPadOS together with my colleagues at [Pixida GmbH (BU anfema)](https://www.pixida.com) which help our international customers to digitalize their internal processes, to be free of errors and to enable their employees to be more productive but also to have more fun at work. 
 
 Developing software is much more than just typing lines in the computer. It's conception, architecture, consulting and then maybe some typing. I love the creativity which I can actively live out day in and day out.
 
