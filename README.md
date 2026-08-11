@@ -3,7 +3,7 @@
 
 #### tl;dr
 - 🔭 I’m currently working on iOS / iPadOS B2B-apps at ~anfema GmbH~ [Pixida GmbH (BU anfema)](https://www.pixida.com)
-- 🌱 I’m currently spending my spare time [developing a RaspPi vehicle](https://github.com/tscholze/dotnet-iot-raspberrypi-trilobot) as a .NET, Blazor and MAUI demo
+- 🌱 I’m currently spending my spare time [developing a RaspPi vehicle](https://github.com/tscholze/dotnet-iot-raspberrypi-tobot) as a .NET, Blazor and MAUI demo
 - 👯 I’m looking to collaborate on fostering and building communities
 - 📫 How to reach me: [@tobonaut](https://twitter.com/tobonaut) (Twitter), [tobonaut@mastodon.social](https://bsky.app/profile/tobonaut.bsky.social) (BlueSky)
 - 📹 My content creations: [YouTube](https://youtube.com/@tscholze), [TikTok](https://www.tiktok.com/@the_stuttering_nerd), [Instagram](https://www.instagram.com/the_stuttering_nerd), [Podcast](https://tscholze.github.io/podcast-la-la-laber-doch/) always as "The Stuttering Nerd"
@@ -30,7 +30,7 @@ For many years I was not ashamed of any illness or my speech impediment and I hi
 
 **You can find my content at:**
 
-- Portfolio: [tscholze.github.io](tscholze.github.io)
+- Portfolio: [tscholze.github.io](https://tscholze.github.io)
 - YouTube: [@tscholze](https://youtube.com/@tscholze)
 - Podcast: [La-La-Laber doch](https://tscholze.github.io/podcast-la-la-laber-doch/) (Bla-Bla-Blabble)
 - Instagram: [@the_stuttering_nerd](https://www.instagram.com/the_stuttering_nerd)
